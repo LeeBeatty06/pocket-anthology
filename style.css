@@ -10,4 +10,6 @@ h1, h2, h3 {
 
 em {
   font-style: italic;
+link {
+  color: rgb(88, 237, 143);
 }
