@@ -5,7 +5,7 @@ div {
 
 body {
   background-color: rgb(255, 224, 202);
-  font-family: "Times New Roman", Times, serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
 }
 
@@ -14,13 +14,10 @@ p {
 }
 
 h1, h2, h3 {
-  font-family: "Georgia", serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: rgb(131, 56, 3);
 }
 
-em {
-  font-style: italic;
-}
 link {
   color: rgb(88, 237, 143);
 }
