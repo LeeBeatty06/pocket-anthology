@@ -1,19 +1,24 @@
 body {
-  background-color: rgb(162, 70, 4);
+  background-color: rgb(255, 203, 166);
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
 }
 
 p {
-  color: rgb(255, 243, 237);
+  color: rgb(162, 70, 4);
 }
 
 h1, h2, h3 {
   font-family: "Georgia", serif;
-  color: rgb(255, 243, 237);
+  color: rgb(162, 70, 4);
 
 em {
   font-style: italic;
 link {
   color: rgb(88, 237, 143);
+}
+
+nav {
+  background-color: rgb(255, 203, 166);
+  padding: 10px;
 }
