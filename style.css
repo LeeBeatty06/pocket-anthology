@@ -29,3 +29,6 @@ nav {
   background-color: rgb(131, 56, 3);
   padding: 10px;
 }
+nav a:hover {
+    color: rgb(255, 224, 202);
+}
