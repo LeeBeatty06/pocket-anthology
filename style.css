@@ -4,6 +4,10 @@ body {
   font-size: 20px;
 }
 
+p {
+  color: rgb(255, 243, 237);
+}
+
 h1, h2, h3 {
   font-family: "Georgia", serif;
   color: rgb(255, 243, 237);
