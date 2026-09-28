@@ -4,26 +4,28 @@ div {
 }
 
 body {
-  background-color: rgb(255, 203, 166);
+  background-color: rgb(255, 224, 202);
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
 }
 
 p {
-  color: rgb(162, 70, 4);
+  color: rgb(131, 56, 3);
 }
 
 h1, h2, h3 {
   font-family: "Georgia", serif;
-  color: rgb(162, 70, 4);
+  color: rgb(131, 56, 3);
+}
 
 em {
   font-style: italic;
+}
 link {
   color: rgb(88, 237, 143);
 }
 
 nav {
-  background-color: rgb(255, 203, 166);
+  background-color: rgb(131, 56, 3);
   padding: 10px;
 }
